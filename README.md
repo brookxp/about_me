@@ -1,2 +1,2 @@
 # about_me
-a little myself.
+In sourch of automatic code.
